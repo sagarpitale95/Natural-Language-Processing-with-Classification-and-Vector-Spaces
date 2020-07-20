@@ -9,6 +9,6 @@ c) Write a simple English to French translation algorithm using pre-computed wor
 
 Please go through the repository for cross checking of your assignments and reference for lab sessions. 
 
-Follow me on linkedIn: 
+Connect me on linkedin: 
 
-[a link](https://www.linkedin.com/in/sagarpitale95/)
+[Sagar Pitale](https://www.linkedin.com/in/sagarpitale95/)
